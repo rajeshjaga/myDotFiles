@@ -2,7 +2,7 @@
 
 Its my configuration files for Window Manager
 
-###Applications I use are
+### Applications I use are
 
 ```
 sxhkd
@@ -48,7 +48,7 @@ chromium
 lightdm-gtk
 ```
 
-###configuration
+### configuration
 
 polybar is a custom bar namely mainbar
 bspwm is frankenstein version of Internet
