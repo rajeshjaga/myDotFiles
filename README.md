@@ -50,11 +50,20 @@ lightdm-gtk
 
 ### configuration
 
-polybar is a custom bar namely mainbar
-bspwm is frankenstein version of Internet
-rofi is my custom verion
-dmenu is not patch (soon will do it)
-kitty is terminal conf a custom changes to default config
-ranger just changed hidden items and image preview from dumped default config
-dracula-gtk gtk theme used for applying for apps
-volantes_light is the default cursor with dracula theme
+__polybar__ is a custom bar namely mainbar
+
+__sxhkd__ is keybindings for bspwm, just few changes to default config
+
+__bspwm__ is frankenstein version of Internet
+
+__rofi__ is my custom verion
+
+__dmenu__ is not patch (soon will do it)
+
+__kitty__ is terminal, config has some custom changes to default config
+
+__Ranger__ is a terminal file manager based of vi,just changed hidden items and image preview from dumped default config
+
+__Dracula-gtk__ gtk theme used for applying for apps
+
+__Volantes_light__ is the default cursor with dracula theme
